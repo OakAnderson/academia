@@ -1,0 +1,11 @@
+Considere um sistema de academia que mantem diversas informações sobre seus clientes. Essencialmente, o sistema deve
+manter as informações fixas de cpf e sexo de cada cliente, e ser capaz de registrar várias métricas físicas (peso,
+altura, bíceps, peito) para cada cliente. Entre as funcionalidades, uncluem-se a possibilidade de saber a média de peso
+de toda a academia e também saber o cliente que mais perdeu peso. Como você organizaria as informações desse sistema em
+estruturas.
+
+Quinta-feira conversamos sobre as soluções.
+
+[]s
+
+Fabrício
